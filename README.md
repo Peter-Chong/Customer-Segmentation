@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Audible offered me a 3 months special offer before I click the unsubscribe button. I thought it was a great deal and continued to subscribe for another three months. That enticed me to think about whether the offer is provided to every churning customer? And if that is not the case, how does Audible knows who to give the offer to? Is there a way a company segment their customers and provide special offers to certain cluster since that cluster is more valuable to them? 
+Audible offered me a 3-month special offer before I click the unsubscribe button. I thought it was a good deal and continued to subscribe for another three months. That marketing move led me to thinking about whether such offer is given to every churning customer? And if that is not the case, how does Audible know which user to give the offer to? Is there a way for companies to segment their customers and tailor special offers to specific customer clusters that are more valuable to them? 
 
 ## Project Overview
 
