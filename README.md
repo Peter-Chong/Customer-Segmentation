@@ -14,13 +14,13 @@ Audible offered me a 3 months special offer before I click the unsubscribe butto
 
 ## [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Data%20Transformation%20%26%20EDA.ipynb)
 
-It is important that we can observe some of the important key performance indicators from the dataset and draw some insights.  
+It is important that we observe some of the important key performance indicators from the dataset and draw some insights.  
   
-In the bar and line graph below, we can see that the revenue are cyclical. The company's revenue peaks at the end of both years. The reason for this phenomenon might due to 2 reasons. Either the companies sell a lot of Christmas or new year related product, or the company holds clearance every end of the year. More business contexts are required to understand this phenomenon.
+In the bar and line graph below, we notice that the revenue is cyclical. The company's revenue peaks at the end of both years. The reason for this phenomenon might due to 2 different reasons. Either the companies sell a lot of Christmas or new year related products, or the company holds clearance at the end of each year. More business contexts are required to understand this phenomenon.
 
 <img src="https://github.com/Peter-Chong/Customer-Segmentation/blob/main/Images/Revenue_Plot.png" />
 
-It is also important for us to compare the revenue earned from existing and new customers. The graph below shows that the existing customers contribute a larger part in the company's revenue throughout the period. We may conclude that the company is good at retaining its existing customer. However, the company should put more effort in luring new customers.  
+It is also important for us to compare the revenue earned from existing and new customers. The graph below shows that existing customers contribute to a larger part of the company's revenue throughout the period. We may conclude that the company is good at retaining its existing customer. However, the company should put more effort into luring new customers.  
 
 <img src="https://github.com/Peter-Chong/Customer-Segmentation/blob/main/Images/New_vs_Old.png" />
 
