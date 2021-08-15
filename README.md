@@ -52,7 +52,7 @@ I would like to use probabilistic models such as Pareto-NBD, BG-NBD, MBG-NBD & G
 
 ## Code and Resources:  
 **Programming Language:** Python  
-**Packages:**  Pandas, Plotly, Scikit-Learn
+**Packages:**  Pandas, Plotly, Scikit-Learn  
 **Data Source:** https://archive.ics.uci.edu/ml/datasets/Online+Retail+II  
 **Resources:**  
 https://www.cloudkettle.com/blog/how-to-leverage-the-rfm-model-to-drive-customer-segmentation/  
