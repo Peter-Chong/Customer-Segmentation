@@ -8,13 +8,23 @@ Audible offered me a 3 months special offer before I click the unsubscribe butto
 
 ## Project Overview
 
-* Performed exploratory data analysis on dataset such as Growth Rate and Monthly Retention Rate  
+* Performed exploratory data analysis and created plots for KPIs such as Growth Rate and Monthly Retention Rate  
 * Measured Recency, Frequency and Monetary (RFM) on customer dataset
 * Applied unsupervised K-Means Clustering to segment customers into 3 different groups  
+
+## [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Data%20Transformation%20%26%20EDA.ipynb)
+
+## [Customer Segmentation with K-Means Clustering & RFM](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Customer%20Segmentation%20with%20K-Means%20Clustering.ipynb)
+
+## Future Scope
+
 
 ## Code and Resources:  
 **Programming Language:** Python  
 **Packages:**  
 **Data Source:** https://archive.ics.uci.edu/ml/datasets/Online+Retail+II  
+**Resources:**  
 https://www.cloudkettle.com/blog/how-to-leverage-the-rfm-model-to-drive-customer-segmentation/  
-https://medium.com/analytics-vidhya/marketing-analytics-rfm-modeling-855ebec18014
+https://medium.com/analytics-vidhya/marketing-analytics-rfm-modeling-855ebec18014  
+
+## Understanding Customer Lifetime Value
