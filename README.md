@@ -24,7 +24,16 @@ It is also important for us to compare the revenue earned from existing and new 
 
 <img src="https://github.com/Peter-Chong/Customer-Segmentation/blob/main/Images/New_vs_Old.png" />
 
-## [Customer Segmentation with K-Means Clustering & RFM](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Customer%20Segmentation%20with%20K-Means%20Clustering.ipynb)
+## [Customer Segmentation with K-Means Clustering & RFM](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Customer%20Segmentation%20with%20K-Means%20Clustering.ipynb) 
+
+We will use the RFM model to segment the customers. After creating the respective indicators' column, we try to cluster them into k number of clusters. We will also use the elbow method to determine k values.  
+  
+RFM stands for Recency, Frequency and Monetary value. These metrics are important indicators of a customer's behavior.  
+**Recency:** Number of days since the last purchase date  
+**Frequency:** Total number of transactions made by a customer  
+**Monetary:** Total value of transactions by each customer  
+
+
 
 ## Future Scope
 
