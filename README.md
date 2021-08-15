@@ -14,6 +14,12 @@ Audible offered me a 3 months special offer before I click the unsubscribe butto
 
 ## [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Data%20Transformation%20%26%20EDA.ipynb)
 
+It is important that we can observe some of the important key performance indicators from the dataset and draw some insights.  
+  
+In the bar and line graph below, we can see that the revenue are cyclical. The company's revenue peaks at the end of both years. The reason for this phenomenon might due to 2 reasons. Either the companies sell a lot of Christmas or new year related product, or the company holds clearance every end of the year. More business contexts are required to understand this phenomenon.
+
+
+
 ## [Customer Segmentation with K-Means Clustering & RFM](https://nbviewer.jupyter.org/github/Peter-Chong/Customer-Segmentation/blob/main/Notebooks/Customer%20Segmentation%20with%20K-Means%20Clustering.ipynb)
 
 ## Future Scope
@@ -21,7 +27,7 @@ Audible offered me a 3 months special offer before I click the unsubscribe butto
 
 ## Code and Resources:  
 **Programming Language:** Python  
-**Packages:**  
+**Packages:**  Pandas, Plotly, Scikit-Learn
 **Data Source:** https://archive.ics.uci.edu/ml/datasets/Online+Retail+II  
 **Resources:**  
 https://www.cloudkettle.com/blog/how-to-leverage-the-rfm-model-to-drive-customer-segmentation/  
