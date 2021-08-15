@@ -32,11 +32,23 @@ RFM stands for Recency, Frequency and Monetary value. These metrics are importan
 **Recency:** Number of days since the last purchase date  
 **Frequency:** Total number of transactions made by a customer  
 **Monetary:** Total value of transactions by each customer  
+  
+After obtaining 3 scores from the RFM model, we add them together and divide them into 3 groups.
 
+<img src="https://github.com/Peter-Chong/Customer-Segmentation/blob/main/Images/Value_Group.png" />
 
+<img src="https://github.com/Peter-Chong/Customer-Segmentation/blob/main/Images/Plot.png" />
 
-## Future Scope
+**Customer behavior and potential targeting techniques for each loyalty level:**  
+High: People in this group are more frequent buyers with average days since the last purchase is 31 days and the average number of times they have transacted in the platform is about 23 times. Also, their average sales value is 9,800 pounds. These are the most loyal customers, who not only bought the most recent and most often, but also heavy spenders. The company should reward these customers so they can help promote the brand.
 
+Medium: People in this middle group on average have made a purchase 48 days ago. Their frequency and monetary values are 4 times and 1.2k pounds respectively.
+
+Low: This is a dormant group with averaging 392 days since they last made a purchase. They have transacted around 2 times with an average sale of 650 pounds. These are customers who visited once and never came back. Surveys should be conducted to know what went wrong and avoid doing the same mistake to a new customer.
+
+## Future Scope  
+
+I would like to use probabilistic models such as Pareto-NBD, BG-NBD, MBG-NBD & Gamma-Gamma to predict future Customer Lifetime Value.
 
 ## Code and Resources:  
 **Programming Language:** Python  
@@ -45,5 +57,3 @@ RFM stands for Recency, Frequency and Monetary value. These metrics are importan
 **Resources:**  
 https://www.cloudkettle.com/blog/how-to-leverage-the-rfm-model-to-drive-customer-segmentation/  
 https://medium.com/analytics-vidhya/marketing-analytics-rfm-modeling-855ebec18014  
-
-## Understanding Customer Lifetime Value
